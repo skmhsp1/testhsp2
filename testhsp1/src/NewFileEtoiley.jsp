@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>goodgood</title>
+<title>first</title>
 </head>
 <body>
 
